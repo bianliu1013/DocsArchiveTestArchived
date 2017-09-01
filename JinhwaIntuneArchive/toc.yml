@@ -1,0 +1,30 @@
+NameInDevLangs: {}
+items:
+- name: User help for Intune
+  NameInDevLangs: {}
+  items:
+  - name: Using your Android device with Intune
+    NameInDevLangs: {}
+    href: using-your-android-device-with-intune.md
+    items: []
+    Metadata:
+      is_archived: true
+  - name: Using your iOS or macOS device with Intune
+    NameInDevLangs: {}
+    href: using-your-iOS-or-macOS-device-with-intune.md
+    items: []
+    Metadata:
+      is_archived: true
+  - name: Using your Windows device with Intune
+    NameInDevLangs: {}
+    href: using-your-windows-device-with-intune.md
+    items: []
+    Metadata:
+      is_archived: true
+  - name: Using the Intune Company Portal website
+    NameInDevLangs: {}
+    href: using-the-intune-company-portal-website.md
+    Metadata:
+      is_archived: true
+  Metadata: {}
+Metadata: {}
