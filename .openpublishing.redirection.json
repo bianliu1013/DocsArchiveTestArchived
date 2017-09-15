@@ -1,3 +1,9 @@
 {
-	"redirections": []
+	"redirections": [
+		{
+			"source_path": "jinhwaintunearchive/using-your-windows-device-with-intune.md",
+			"redirect_url": "https://ppe.docs.microsoft.com/jinhwaIntune/using-your-windows-device-with-intune",
+			"redirect_document_id": false
+		}
+	]
 }
